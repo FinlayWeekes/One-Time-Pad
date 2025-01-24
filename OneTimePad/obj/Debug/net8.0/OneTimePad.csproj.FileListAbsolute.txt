@@ -1,0 +1,14 @@
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/bin/Debug/net8.0/OneTimePad
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/bin/Debug/net8.0/OneTimePad.deps.json
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/bin/Debug/net8.0/OneTimePad.runtimeconfig.json
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/bin/Debug/net8.0/OneTimePad.dll
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/bin/Debug/net8.0/OneTimePad.pdb
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.GeneratedMSBuildEditorConfig.editorconfig
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.AssemblyInfoInputs.cache
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.AssemblyInfo.cs
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.csproj.CoreCompileInputs.cache
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.dll
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/refint/OneTimePad.dll
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.pdb
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/OneTimePad.genruntimeconfig.cache
+/Users/finlayweekes/Documents/Vs/One Time Pad/OneTimePad/obj/Debug/net8.0/ref/OneTimePad.dll
